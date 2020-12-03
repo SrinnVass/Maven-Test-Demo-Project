@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-25T09:53:52Z" name="Maven Test Automation Suite" finished-at="2020-11-25T09:53:52Z" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2020-11-25T09:53:52Z" name="Maven Test" finished-at="2020-11-25T09:53:52Z" duration-ms="37">
+      <class name="com.qa.Test.TestTwo">
+        <test-method signature="mul()[pri:0, instance:com.qa.Test.TestTwo@491666ad]" started-at="2020-11-25T09:53:52Z" name="mul" finished-at="2020-11-25T09:53:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="div()[pri:0, instance:com.qa.Test.TestTwo@491666ad]" started-at="2020-11-25T09:53:52Z" name="div" finished-at="2020-11-25T09:53:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="sum()[pri:0, instance:com.qa.Test.TestTwo@491666ad]" started-at="2020-11-25T09:53:52Z" name="sum" finished-at="2020-11-25T09:53:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sub()[pri:0, instance:com.qa.Test.TestTwo@491666ad]" started-at="2020-11-25T09:53:52Z" name="sub" finished-at="2020-11-25T09:53:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.Test.TestTwo -->
+      <class name="com.qa.Test.TestOne">
+        <test-method signature="div()[pri:0, instance:com.qa.Test.TestOne@3b2c72c2]" started-at="2020-11-25T09:53:52Z" name="div" finished-at="2020-11-25T09:53:52Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="sub()[pri:0, instance:com.qa.Test.TestOne@3b2c72c2]" started-at="2020-11-25T09:53:52Z" name="sub" finished-at="2020-11-25T09:53:52Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="mul()[pri:0, instance:com.qa.Test.TestOne@3b2c72c2]" started-at="2020-11-25T09:53:52Z" name="mul" finished-at="2020-11-25T09:53:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="sum()[pri:0, instance:com.qa.Test.TestOne@3b2c72c2]" started-at="2020-11-25T09:53:52Z" name="sum" finished-at="2020-11-25T09:53:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.Test.TestOne -->
+    </test> <!-- Maven Test -->
+  </suite> <!-- Maven Test Automation Suite -->
+</testng-results>

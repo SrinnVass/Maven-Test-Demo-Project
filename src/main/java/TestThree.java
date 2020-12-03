@@ -43,8 +43,15 @@ public class TestThree {
 		int b=20;
 		Assert.assertEquals(2, b/a);
 	}
+	 
+    @Test
 	
-	
+   	public void prob() {
+   		System.out.println("prob method");
+   		int a=10;
+   		int b=20;
+   		Assert.assertEquals(2, b/a);
+   	}
 	
 	
 	
